@@ -1,0 +1,18 @@
+{
+  "kind": "collectionType",
+  "collectionName": "newprojects",
+  "info": {
+    "singularName": "newproject",
+    "pluralName": "newprojects",
+    "displayName": "newproject"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "new": {
+      "type": "string"
+    }
+  }
+}
